@@ -31,7 +31,7 @@ Hold specific button and press `RESET` (code checks if any button is pressed at 
 - `BLUE` Pressed at startup -> Program EEPROM with hardcoded text2
 
 # Schematic
-Comming soon, but very similar to hackaday project (with the added display)
+![Schematic](https://github.com/roman-oberenkowski/super-simon/blob/38c23dbe415070697ed50af558a2374dfa718a67/Schematic/SimonSchematic.png)
 
 # Parts
 - 16-segment LED display
