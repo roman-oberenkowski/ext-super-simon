@@ -4,8 +4,8 @@ Parts of that code were adapted to my version (mainly in simon.c)
 # Demo
 ![Photo](https://github.com/roman-oberenkowski/ext-super-simon/blob/439cec614d1024ddc54e4d4cfaf007ceecc2a929/readme_resources/image.jpg)
 # Video demo
-- [Vid1](https://mega.nz/file/MUs0DIiK#xzPREYNwA1cl3rNJdDrPqqtjcE0q5zSIepIwTwfQSgw)
-- [Vid2](https://mega.nz/file/VYMi0bDK#WeOdnpXRvkZPi3b5oCkXD1v25RpKQEY-cA_24YyPvMc)
+- Game demo: [Link](https://mega.nz/file/ERETgDTL#8WjVBw2f1JaynFDqS6BCI4y_ScoYtYXVx-7Yk8EPEzM)
+- Set text demo: [Link](https://mega.nz/file/AAMgxKTI#T9gVQXDIDjVFTvOzm8CTvg5Iv-4GHJlT4ohppsRxDGg)
 
 # Original game rules 
 Press color coded buttons in the same order as you are shown. Every time you do that correctly, the sequence gets longer by one. Even one mistake results in game over.
